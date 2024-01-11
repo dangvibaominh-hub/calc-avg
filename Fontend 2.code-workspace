@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "Fontend 2",
+			"path": "../Fontend 2"
+		},
+		{
+			"path": "../html"
+		},
+		{
+			"path": "../WisSchool"
+		},
+		{
+			"path": "../bài tập"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dvbm"
+	}
+}
